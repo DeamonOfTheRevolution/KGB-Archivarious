@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b41f01331fe2b9d4dade795bab5e17ee, type: 3}
+  m_Name: Task_ArchivePerson
+  m_EditorClassIdentifier: Assembly-CSharp::DayTask
+  taskType: 0
+  description: "\u0410\u0440\u0445\u0438\u0432\u0438\u0440\u0443\u0439\u0442\u0435
+    \u043B\u0438\u0447\u043D\u043E\u0435 \u0434\u0435\u043B\u043E \u0433\u0440\u0430\u0436\u0434\u0430\u043D\u0438\u043D\u0430
+    \u0418\u0432\u0430\u043D\u043E\u0432\u0430"
+  requiredDocuments:
+  - {fileID: 11400000, guid: d67dee32fe2e68f45a207c9d26f009a5, type: 2}
+  optionalDocuments: []
+  targetDocumentID: 26-01-0001-A
+  expectedSecrecy: 2
+  expectedYears: 25
+  completed: 0
+  success: 0
